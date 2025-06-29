@@ -15,25 +15,14 @@ This is a website for a tech conference called **Full Stack Conf**. I built this
 
 ---
 
-### Folder Overview
-├── assets/ (This contains the images used on the page)
-│ ├── James.png
-│ ├── Keza.png
-│ ├── Pelino.png
-│ ├── kigali.jpeg
-├── index.html
-└── README.md
-
----
-
-#### How to Open It
+### How to Open It
 
 1. Download or clone this folder  
 2. Open `index.html` in your browser  
 3. You can also use **Live Server** if you're using VS Code  
 No need to install anything else!
 
-##### Screenshot Comparison Table
+#### Screenshot Comparison Table
 
 | Section               | Demo Reference                             | My Implementation                       |
 |-----------------------|--------------------------------------------|------------------------------------------|
