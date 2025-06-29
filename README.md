@@ -33,13 +33,13 @@ This is a website for a tech conference called **Full Stack Conf**. I built this
 3. You can also use **Live Server** if you're using VS Code  
 No need to install anything else!
 
-## Screenshot Comparison Table
+##### Screenshot Comparison Table
 
-| Section | Demo Reference  | My Implementation |
-|--------|--------------------|----------------------|
-| Hero Section | ![Demo Hero](screenshots/demo_hero.png) | ![My Hero](screenshots/MyHero.png) |
-| Modal Form | ![Demo Modal](screenshots/DemoForm1.png) | ![My Modal](screenshots/MyForm1.png) |
-               ![Demo Modal](screenshots/DemoForm2.png) | ![My Modal](screenshots/MyForm2.png) |
-| Speakers Section | ![Demo Speakers](screenshots/DemoSpeakers.png) | ![My Speakers](screenshots/MySpeakers.png) |
-| Schedule Section | ![Demo Schedule](screenshots/DemoSchedule.png) | ![My Schedule](screenshots/MySchedule.png) |
-| Footer with Dropup | ![Demo Footer](screenshots/DemoFooter.png) | ![My Footer](screenshots/MyFooter.png) |
+| Section               | Demo Reference                             | My Implementation                       |
+|-----------------------|--------------------------------------------|------------------------------------------|
+| Hero Section          | ![Demo Hero](screenshots/demo_hero.png)    | ![My Hero](screenshots/MyHero.png)       |
+| Modal Form1           | ![Demo Modal 1](screenshots/DemoForm1.png) | ![My Modal 1](screenshots/MyForm1.png)   |
+| Modal Form2           | ![Demo Modal 2](screenshots/DemoForm2.png) | ![My Modal 2](screenshots/MyForm2.png)   |
+| Speakers Section      | ![Demo Speakers](screenshots/DemoSpeakers.png) | ![My Speakers](screenshots/MySpeakers.png) |
+| Schedule Section      | ![Demo Schedule](screenshots/DemoSchedule.png) | ![My Schedule](screenshots/MySchedule.png) |
+| Footer with Dropup    | ![Demo Footer](screenshots/DemoFooter.png) | ![My Footer](screenshots/MyFooter.png)   |
