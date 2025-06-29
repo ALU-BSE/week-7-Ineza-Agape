@@ -1,6 +1,45 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xRYVR9KZ)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19861929)
-# afd-2023M-Bootstrap-Challenge
+# Full Stack Conf - Bootstrap 5 Project
 
-**Instructions:**
-In this bootstrap challenge you are tasked to replicate the web page shown in the project-demo file, using only bootstrap 5 (No JS or any other CSS Framework).
+This is a website for a tech conference called **Full Stack Conf**. I built this using only **Bootstrap 5** and **HTML**. 
+
+---
+
+##  What's on the Page
+
+- A navigation bar (menu)  
+- A big heading section with two buttons  
+- A pop-up form to register for the event  
+- Speaker cards with photos and info  
+- A full event schedule  
+- A footer with links, a newsletter signup, and more events
+
+---
+
+### Folder Overview
+├── assets/ (This contains the images used on the page)
+│ ├── James.png
+│ ├── Keza.png
+│ ├── Pelino.png
+│ ├── kigali.jpeg
+├── index.html
+└── README.md
+
+---
+
+#### How to Open It
+
+1. Download or clone this folder  
+2. Open `index.html` in your browser  
+3. You can also use **Live Server** if you're using VS Code  
+No need to install anything else!
+
+## Screenshot Comparison Table
+
+| Section | Demo Reference  | My Implementation |
+|--------|--------------------|----------------------|
+| Hero Section | ![Demo Hero](screenshots/demo_hero.png) | ![My Hero](screenshots/MyHero.png) |
+| Modal Form | ![Demo Modal](screenshots/DemoForm1.png) | ![My Modal](screenshots/MyForm1.png) |
+               ![Demo Modal](screenshots/DemoForm2.png) | ![My Modal](screenshots/MyForm2.png) |
+| Speakers Section | ![Demo Speakers](screenshots/DemoSpeakers.png) | ![My Speakers](screenshots/MySpeakers.png) |
+| Schedule Section | ![Demo Schedule](screenshots/DemoSchedule.png) | ![My Schedule](screenshots/MySchedule.png) |
+| Footer with Dropup | ![Demo Footer](screenshots/DemoFooter.png) | ![My Footer](screenshots/MyFooter.png) |
